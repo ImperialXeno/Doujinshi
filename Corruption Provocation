@@ -1,0 +1,17 @@
+{
+  "title": "Corruption Provocation",
+  "description": "<manga description>",
+  "artist": "Nakamura Regura",
+  "author": "Nanbou Hitogakushiki",
+  "cover": "https://imgur.com/Xs6gnJz.png",
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Z4b0L1M/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
