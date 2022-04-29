@@ -7,10 +7,18 @@
   "chapters": {
     "0": {
       "title": "Side Stories: Natalia",
-      "volume": "<volume number>",
+      "volume": "01",
       "last_updated": "1616368746",
       "groups": {
         "FAKKU": "/proxy/api/imgur/chapter/1uBBRCK"
+      }
+    },
+    "01": {
+      "title": "01",
+      "volume": "01",
+      "last_updated": "1651201489",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/sQWEbDB"
       }
     }
   }
