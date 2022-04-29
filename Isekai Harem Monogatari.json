@@ -7,14 +7,14 @@
   "chapters": {
     "0": {
       "title": "Side Stories: Natalia",
-      "volume": "01",
+      "volume": "0",
       "last_updated": "1616368746",
       "groups": {
         "FAKKU": "/proxy/api/imgur/chapter/1uBBRCK"
       }
     },
     "01": {
-      "title": "",
+      "title": "Vol. 01",
       "volume": "01",
       "last_updated": "1651201489",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "02": {
-      "title": "",
+      "title": "Vol. 02",
       "volume": "02",
       "last_updated": "1651225112",
       "groups": {
@@ -51,6 +51,30 @@
       "last_updated": "1651238299",
       "groups": {
         "FAKKU": "/proxy/api/imgur/chapter/mjX4759"
+      }
+    },
+    "06": {
+      "title": "Overloaded! Orgies on the High Seas! + Vol. 6.5",
+      "volume": "06",
+      "last_updated": "1651239399",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/gJ5s6U2"
+      }
+    },
+    "07": {
+      "title": "Clash! The Vampire Girl Vs. The Haughty Princess + Vol. 7.5",
+      "volume": "07",
+      "last_updated": "1651239862",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/UJE0kJG"
+      }
+    },
+    "0.5": {
+      "title": "Extra Chapters",
+      "volume": "0",
+      "last_updated": "1651240251",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/QaoH38L"
       }
     }
   }
