@@ -3,6 +3,15 @@
   "description": "",
   "artist": "Engawa Suguru",
   "author": "Chinjao Girl",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://imgur.com/7iHsrci.png",
+  "chapters": {
+    "01": {
+      "title": "Breastfeeding at home",
+      "volume": "01",
+      "last_updated": "1651287212",
+      "groups": {
+        "Newey": "https://imgur.com/7iHsrci"
+      }
+    }
+  }
 }
