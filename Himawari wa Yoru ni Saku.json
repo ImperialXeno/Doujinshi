@@ -1,0 +1,17 @@
+{
+  "title": "Himawari wa Yoru ni Saku",
+  "description": "",
+  "artist": "Takeda Hiromitsu",
+  "author": "Takeda Hiromitsu",
+  "cover": "https://imgur.com/F4eeHXT.jpg",
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1651308688",
+      "groups": {
+        "SMDC": "/proxy/api/imgur/chapter/x7k7gMC"
+      }
+    }
+  }
+}
