@@ -4,5 +4,14 @@
   "artist": "Endou Okito",
   "author": "Endou Okito",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "The crucifixion of Succura",
+      "volume": "01",
+      "last_updated": "1651310894",
+      "groups": {
+        "ancilf": "/proxy/api/imgur/chapter/qGpfXIf"
+      }
+    }
+  }
 }
