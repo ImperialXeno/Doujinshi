@@ -3,7 +3,7 @@
   "description": "Collection of different series as different chapters",
   "artist": "Endou Okito",
   "author": "Endou Okito",
-  "cover": "",
+  "cover": "https://imgur.com/kmXX6TR.jpg",
   "chapters": {
     "01": {
       "title": "The crucifixion of Succura",
@@ -11,6 +11,14 @@
       "last_updated": "1651310894",
       "groups": {
         "ancilf": "/proxy/api/imgur/chapter/qGpfXIf"
+      }
+    },
+    "02": {
+      "title": "Coppélia Brothel",
+      "volume": "02",
+      "last_updated": "1651311885",
+      "groups": {
+        "Neraka Translations": "/proxy/api/imgur/chapter/QmX3jTS"
       }
     }
   }
