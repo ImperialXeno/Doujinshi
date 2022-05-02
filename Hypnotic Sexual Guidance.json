@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Aiue Oka",
   "author": "Aiue Oka",
-  "cover": "",
+  "cover": "https://imgur.com/yrY5FfL.jpg",
   "chapters": {
     "1": {
       "title": "Yui Obata and Daiki Tachibana",
@@ -51,6 +51,14 @@
       "last_updated": "1651487050",
       "groups": {
         "FAKKU": "/proxy/api/imgur/chapter/YpEItSM"
+      }
+    },
+    "4.5": {
+      "title": "Practical Pregnancy Experience Counseling (Part-2) ",
+      "volume": "",
+      "last_updated": "1651489940",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/H6OoZI1"
       }
     }
   }
