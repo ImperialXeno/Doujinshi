@@ -6,11 +6,19 @@
   "cover": "",
   "chapters": {
     "01": {
-      "title": "Training Session One: Yui Obata and Daiki Tachibana",
+      "title": "Yui Obata and Daiki Tachibana",
       "volume": "",
       "last_updated": "1651485510",
       "groups": {
         "FAKKU": "/proxy/api/imgur/chapter/KyZlVzP"
+      }
+    },
+    "02": {
+      "title": "Reika Kurashiki",
+      "volume": "",
+      "last_updated": "1651486115",
+      "groups": {
+        "FAKKU": "/proxy/api/imgur/chapter/SVDBuGk"
       }
     }
   }
