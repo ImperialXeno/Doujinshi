@@ -4,5 +4,14 @@
   "artist": "Erect Sawaru",
   "author": "ERECT TOUCH",
   "cover": "https://imgur.com/T3qwFhe.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1651989365",
+      "groups": {
+        "Red Lantern": "/proxy/api/imgur/chapter/1APxt3v"
+      }
+    }
+  }
 }
